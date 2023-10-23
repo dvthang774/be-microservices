@@ -5,8 +5,8 @@ export const Constants = {
     expiresin_refresh: '2592000s',
 
     // AWS
-    aws_access_key:'AKIAQZQU4DT5IW7TTVO6',
-    aws_secrect_key:'mKX7QJEtVRIiPs1w76GaPvur9LNWOJLeu1+F08CR',
+    aws_access_key:'',
+    aws_secrect_key:'',
     aws_region:'ap-northeast-1',
     aws_public:'nest-project',
 
